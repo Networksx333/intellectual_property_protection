@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/intellectual_property_protection/static/css/main.a0951a95.css",
-    "main.js": "/intellectual_property_protection/static/js/main.7fca3b23.js",
+    "main.js": "/intellectual_property_protection/static/js/main.d3094b44.js",
     "static/media/background.jpg": "/intellectual_property_protection/static/media/background.75217b76e4eb605b6a49.jpg",
     "index.html": "/intellectual_property_protection/index.html",
     "main.a0951a95.css.map": "/intellectual_property_protection/static/css/main.a0951a95.css.map",
-    "main.7fca3b23.js.map": "/intellectual_property_protection/static/js/main.7fca3b23.js.map"
+    "main.d3094b44.js.map": "/intellectual_property_protection/static/js/main.d3094b44.js.map"
   },
   "entrypoints": [
     "static/css/main.a0951a95.css",
-    "static/js/main.7fca3b23.js"
+    "static/js/main.d3094b44.js"
   ]
 }

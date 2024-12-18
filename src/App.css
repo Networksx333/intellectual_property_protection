@@ -70,7 +70,7 @@
 .button:hover {
     animation: rotate 0.7s ease-in-out both;
 }
- 
+
 
 .button:hover span {
     animation: storm 0.7s ease-in-out both;
